@@ -1,0 +1,10 @@
+{
+  "Aircraft_Performance_Analyzer": {
+    "name": "Aircraft Performance Analyzer V 0.8",
+    "description": "Analyse the performance of a fixed wing electric aircraft ",
+    "icon": "Aircraft_Logo.png",
+    "keywords": "Aircraft Perormance Analysis",
+    "uniqueId": "Aircraft_Performance_Analyzer",
+    "docLink": ""
+  }
+}
