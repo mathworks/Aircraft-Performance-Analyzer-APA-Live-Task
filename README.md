@@ -29,10 +29,9 @@ For detailed information on various inputs-outputs, and how to use the APA Live 
 
 ## Setup
 To run: 
-1. Download the repository and install 'Aircraft Performance Analyzer.mltbx' by double clicking on it in the MATLAB environment.
-2.  extract it to your local directory. 
-3. In the MATLAB® environment make this directory as current folder. 
-4. Open a new live script and start typing 'aircraft'. Select "Aircraft Performance Analyzer" from suggestions.
+1. Download the repository and open it in the MATLAB environment.
+2. Install 'Aircraft Performance Analyzer.mltbx' by double clicking on it.
+3. Open a new live script and start typing 'aircraft'. Select "Aircraft Performance Analyzer" from suggestions.
 <td> <img src="Images/Search_APA.png" alt="APA Search" width="600px""/> </td>
 
 
