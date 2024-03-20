@@ -10,7 +10,7 @@
 ## Introduction
 
 The APA Live Task lets you interactively analyze the performance of your electric fixed-wing aircraft design. These performance insights help you further optimize the design against the design requirements.
-This task offers multiple performance analysis capabilities:
+This live task offers multiple performance analysis capabilities:
 1. Power requirements:  Required power, max. available power, drag vs. speed, max speed, min drag speed, stall speeds for various operations
 2. Range and Endurance: Rangevs. speed, endurance vs. speed, and speeds for max range and max endurance
 3. Take-off: Various take-off phases and total take-off distance
