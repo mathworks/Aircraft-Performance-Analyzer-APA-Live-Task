@@ -1,8 +1,8 @@
 # Aircraft Performance Analyzer (APA) Live Task
 
-<!-- [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]()  
+<!-- [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]()  --> 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]() --> 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Aircraft-Performance-Analyzer-APA-Live-Task) 
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
 
@@ -29,8 +29,8 @@ For detailed information on various inputs-outputs, and how to use the APA Live 
 
 ## Setup
 To run: 
-1. Download the repository and extract it to your local directory. 
-2. In the MATLAB® environment make this directory as current folder. 
+1. Download the repository and open it in the MATLAB environment.
+2. Install 'Aircraft Performance Analyzer.mltbx' by double clicking on it.
 3. Open a new live script and start typing 'aircraft'. Select "Aircraft Performance Analyzer" from suggestions.
 <td> <img src="Images/Search_APA.png" alt="APA Search" width="600px""/> </td>
 
