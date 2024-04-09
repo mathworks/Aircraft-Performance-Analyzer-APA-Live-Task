@@ -3,6 +3,8 @@
 <!-- [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]()  --> 
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Aircraft-Performance-Analyzer-APA-Live-Task) 
+
+[![View Aircraft Performance Analyzer (APA) Live Task on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/162556-aircraft-performance-analyzer-apa-live-task)
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
 
